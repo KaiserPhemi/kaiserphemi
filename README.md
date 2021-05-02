@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaiserPhemi
 - 👀 I’m interested in Web Development, Software Architecture
 - 🌱 I’m currently learning Microservices
-- 💞️ I’m looking to collaborate on Building CRM platforms
+- 💞️ I’m looking to collaborate on Building CRM & SaaS platforms
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaiserphemi/)
 
 <!---
